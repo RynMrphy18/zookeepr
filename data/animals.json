@@ -135,6 +135,51 @@
         "hungry"
       ],
       "id": "13"
+    },
+    {
+      "name": "ghyjhth",
+      "species": "lemur",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "fvdvdv",
+      "species": "dfdfgdfg",
+      "diet": "folivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "fvdvdv",
+      "species": "dfdfgdfg",
+      "diet": "folivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "16"
+    },
+    {
+      "name": "fvdvdv",
+      "species": "dfdfgdfg",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "17"
+    },
+    {
+      "name": "LArry",
+      "species": "Human",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "18"
     }
   ]
 }
