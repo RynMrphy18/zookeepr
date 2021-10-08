@@ -19,7 +19,7 @@ app.use(express.json());
 app.use("/api", apiRoutes);
 app.use("/", htmlRoutes);
 
-app.use(express.static("public/zookeepr-public"));
+app.use(express.static("public"));
 
 // app.get('/api/animals', (req, res) => {
 //   let results = animals;
